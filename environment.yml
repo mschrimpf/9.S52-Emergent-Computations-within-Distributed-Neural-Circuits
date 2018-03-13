@@ -2,5 +2,8 @@ name: 9.S52-pset1
 channels:
 - defaults
 dependencies:
+  - pandas
+  - matplotlib
+  - seaborn
   - jupyter
   - pip:
