@@ -1,0 +1,6 @@
+name: 9.S52-pset1
+channels:
+- defaults
+dependencies:
+  - jupyter
+  - pip:
