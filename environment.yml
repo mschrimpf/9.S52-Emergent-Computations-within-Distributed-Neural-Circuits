@@ -3,6 +3,7 @@ channels:
 - defaults
 dependencies:
   - pandas
+  - scikit-learn
   - matplotlib
   - seaborn
   - jupyter
